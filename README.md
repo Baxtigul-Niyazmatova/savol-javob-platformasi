@@ -4,7 +4,7 @@ repository ni clone qilib olish
 
 ```bash
    git clone https://github.com/Baxtigul-Niyazmatova/savol-javob-platformasi.git
-   cd stack-overflow-clone
+   cd savol-javob-platformasi
 ```
 
 ```bash
